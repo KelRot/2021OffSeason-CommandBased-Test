@@ -20,7 +20,4 @@ public final class Constants {
     public static final int sagOn= 3;
     public static final int sagArka= 2;
 
-
-
-
 }
