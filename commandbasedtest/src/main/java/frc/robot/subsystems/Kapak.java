@@ -7,5 +7,5 @@ import com.ctre.phoenix.motorcontrol.VictorSPXControlMode;
 import com.ctre.phoenix.motorcontrol.can.VictorSPX;
 
 public class Kapak extends SubsystemBase{
-    private Victor SPX kapak;
+    private VictorSPX kapak;
 }
